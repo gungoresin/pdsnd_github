@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+17 December 2020 00:52
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project covers bikeshare system usage data of Chicago, New York City and Washington.
+Project includes these statistics:
+-Popular times of Travel
+-Popular Stations and trip
+-Trip duration
+-User info
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+udacity python-related course metarials
