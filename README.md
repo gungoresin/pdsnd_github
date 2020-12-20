@@ -1,11 +1,13 @@
 ### Date created
-17 December 2020 00:52
+17 December 2020
 
 ### Project Title
 Explore US Bikeshare Data
 
 ### Description
-This project covers bikeshare system usage data of Chicago, New York City and Washington.
+This project analyzes bikeshare system usage data of Chicago, New York City and Washington.
+Data covers the first six month of 2017.
+
 Project includes these statistics:
 -Popular times of Travel
 -Popular Stations and trip
