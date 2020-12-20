@@ -9,10 +9,10 @@ This project analyzes bikeshare system usage data of Chicago, New York City and 
 Data covers the first six month of 2017.
 
 Project includes these statistics:
--Popular times of Travel
--Popular Stations and trip
--Trip duration
--User info
+-Popular Times of Travel
+-Popular Stations and Trip
+-Trip Duration
+-User Info
 
 ### Files used
 chicago.csv
